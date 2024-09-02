@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: Roles in discord server.
-        subtitle: The Job Stuff
+        subtitle: ''
         text: ''
         image:
           url: /images/icon2.svg
