@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "https://getexe.netlify.com",
+            "url": "https://getexe.netlify.app",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
