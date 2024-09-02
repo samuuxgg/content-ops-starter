@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Buy Key and win:'
     items:
       - title: Roles in discord server.
         subtitle: ''
