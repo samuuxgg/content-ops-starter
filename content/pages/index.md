@@ -47,7 +47,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
