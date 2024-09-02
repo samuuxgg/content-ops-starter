@@ -77,7 +77,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 100% UNC
-        subtitle: UNC
+        subtitle: Executor support all scripts.
         text: ''
         image:
           url: /images/play (2) (1) (1) (2).png
