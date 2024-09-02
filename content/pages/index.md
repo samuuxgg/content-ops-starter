@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Experience Exe, the best scripting tool on the big screen and harness the
+      unparalleled power it offers. Dive into the evolution, not just as an
+      observer, but as a participant riding the crest of innovation. With
+      advanced scripting capabilities and superior performance.
+
     actions:
       - label: Download
         altText: ''
