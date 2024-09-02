@@ -83,7 +83,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 100%
+      - title: 100% UNC
         subtitle: UNC
         text: ''
         image:
