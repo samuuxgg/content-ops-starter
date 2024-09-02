@@ -84,7 +84,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 100% UNC
-        subtitle: UNC
+        subtitle: ''
         text: ''
         image:
           url: /images/icon3.svg
