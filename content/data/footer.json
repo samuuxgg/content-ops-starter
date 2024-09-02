@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "© Exe Team, all rights reserved.\n\n",
-    "socialLinks": [
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "\n\n",
     "colors": "bg-dark-fg-light",
