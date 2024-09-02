@@ -1,25 +1,27 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/play (2) (1) (1) (2) (1).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "url": "https://getexe.netlify.app",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Purchase Key",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Discord",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +39,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Resources",
             "altText": "Dropdown",
             "links": [
                 {
@@ -69,26 +71,8 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
-        }
-    ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-left",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }
