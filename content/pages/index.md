@@ -61,6 +61,26 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
+      - title: 100%
+        subtitle: UNC
+        text: ''
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - title: 20x
         subtitle: The Job Stuff
         text: ''
@@ -82,26 +102,6 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: 100%
-        subtitle: UNC
-        text: ''
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
         type: FeaturedItem
     actions:
       - label: Get started
