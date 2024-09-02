@@ -61,7 +61,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: 20x
+      - title: Roles in discord server.
         subtitle: The Job Stuff
         text: ''
         image:
