@@ -7,7 +7,7 @@ sections:
       text: 'EXE: Elevate Your Roblox Experience'
       color: text-light
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Experience Exe, the best scripting tool on the big screen and harness the
       unparalleled power it offers. Dive into the evolution, not just as an
