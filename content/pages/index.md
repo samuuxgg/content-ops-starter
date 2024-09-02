@@ -96,7 +96,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-        tagline: UNC
+        tagline: '                   '
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
