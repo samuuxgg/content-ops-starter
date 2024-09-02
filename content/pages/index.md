@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: EXE
+      text: 'EXE: Elevate Your Roblox Experience'
       color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
