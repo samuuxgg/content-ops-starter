@@ -80,7 +80,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/play (2) (1) (1) (2) (1).png
+          url: /images/play (2) (1) (1) (2).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
